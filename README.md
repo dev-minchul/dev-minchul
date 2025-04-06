@@ -1,24 +1,21 @@
-<!-- README.md -->
+괴물쥐 20일 05 27<!--# 가장 큰 제목 h1
 
-# Shin Min Chul 😉  
+## 중간 제목 h2
+### 가장 작은 제목  h3 -->
+## Profile 👋
 
-## 👋 Profile  
-📞 Phone | 010-7795-4160  
-📧 Email | minchul766@gmail.com  
+📞 phone | 010-7795-4160 <br>
+🔔 Email | Minchul766@gmail.com
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minchul766@gmail.com)](mailto:minchul766@gmail.com)  
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:rlatngus1691@naver.com)  
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/)
-
----
-
-## 💬 About Me  
-안녕하세요! 게임과 웹을 넘나드는 풀스택 개발자 신민철입니다 👨‍💻  
-Unity 기반의 게임 서버 개발과 프론트엔드까지 아우르는 개발을 좋아합니다.  
-요즘은 AI와 게임의 융합에도 큰 관심을 가지고 있어요!  
-
----
-
+# Shin Min Chul 😉
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dev-minchul&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/dev-minchul"
+  width="800"
+  height="400"
+/>
+  
+</a>
 ## 💪 Skills  
 
 ### 🧱 Platforms & Languages  
@@ -37,36 +34,28 @@ Unity 기반의 게임 서버 개발과 프론트엔드까지 아우르는 개�
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
----
 
-## 🐾 GitAnimals  
+ 
+# :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minchul766@gmail.com)](mailto:kimsh1691@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:leo2533@naver.com)](mailto:rlatngus1691@naver.com)
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dev-minchul&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/dev-minchul"
-    width="800"
-    height="400"
-    alt="GitAnimals Stats"
-  />
-</a>
-
----
-
-## 🛠 Projects
-
-### 🐾 GitAnimals (깃애니멀즈)
-- 개발자 활동을 시각화하는 유니크한 웹 애플리케이션
-- 사용 기술: Java, Spring Boot, Thymeleaf
-- [🔗 바로가기](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dev-minchul&utm_content=farm)
-
-<!-- 프로젝트 더 추가 가능 -->
-
----
-
-## 📊 GitHub Stats
-
-![dev-minchul's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-minchul&show_icons=true&theme=radical)  
+![dev-minchul's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-minchul&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-minchul&layout=donut)](https://github.com/argon4067/github-readme-stats)
 
----
 
+<!--
+**dev-minchul/dev-minchul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

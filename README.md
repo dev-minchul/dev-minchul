@@ -11,8 +11,8 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dev-minchul&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/dev-minchul"
-  width="400"
-  height="200"
+  width="800"
+  height="400"
 />
 </a>
 

@@ -1,11 +1,4 @@
 <!--# 가장 큰 제목 h1
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dev-minchul&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/dev-minchul"
-  width="600"
-  height="300"
-/>
-</a>
 
 ## 중간 제목 h2
 ### 가장 작은 제목  h3 -->
@@ -59,4 +52,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dev-minchul&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/dev-minchul"
+  width="600"
+  height="300"
+/>
+</a>
+
 -->

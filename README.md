@@ -8,6 +8,13 @@
 🔔 Email | Minchul766@gmail.com
 
 # Shin Min Chul 😉
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dev-minchul&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/dev-minchul"
+  width="600"
+  height="300"
+/>
+</a>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-minchul&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
@@ -52,12 +59,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dev-minchul&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/dev-minchul"
-  width="600"
-  height="300"
-/>
-</a>
-
 -->
